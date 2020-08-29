@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeakerButton</string>
+    <string name="app_description">This app maps the android intent action VOICE_COMMAND to PLAY/PAUSE button and nothing else.</string>
+</resources>
